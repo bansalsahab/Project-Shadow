@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Data directory
+data/
+
+# Documents (optional, but included since they may be large)
+# Remove these lines if you want to include the documents in your repository
+*.docx
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
