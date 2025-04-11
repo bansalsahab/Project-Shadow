@@ -20,6 +20,10 @@ This system provides a secure interface for intelligence retrieval with the foll
 - **Multi-Level Security Clearance**: Maps user clearance levels to the RAW classification system used in the documents.
 - **Query Expansion System**: Transforms the original query into multiple variations to improve retrieval coverage.
 - **Persistent Storage Architecture**: Caches processed chunks and embeddings for faster response times on repeated queries.
+  
+## Data Flow Diagram
+![diagram-export-4-12-2025-12_18_25-AM](https://github.com/user-attachments/assets/2fdb4284-b84e-4e9d-9fca-405ebfaffe4c)
+
 
 ## Project Structure
 
@@ -97,6 +101,7 @@ The modular pipeline architecture makes it easy to extend the system with new ca
 ## Example Query
 
 "What is the status of Operation Phantom Veil, and what are the recommended counter-surveillance techniques?"
+
 
 ## Notes
 
